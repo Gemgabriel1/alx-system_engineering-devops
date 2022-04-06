@@ -1,1 +1,2 @@
-My first readme
+#!/bin/bash
+shell variables expansions repo
